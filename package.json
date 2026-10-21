@@ -1,0 +1,36 @@
+{
+  "name": "is-safe-number",
+  "version": "1.0.0",
+  "description": "Returns true if every input is a number that is safe to compute with.",
+  "keywords": [
+    "safe",
+    "is-safe-number",
+    "number",
+    "finite",
+    "overflow",
+    "safe-integer",
+    "division",
+    "validation",
+    "check",
+    "predicate",
+    "utility"
+  ],
+  "homepage": "https://github.com/davidramsay95/is-safe-number#readme",
+  "bugs": {
+    "url": "https://github.com/davidramsay95/is-safe-number/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidramsay95/is-safe-number.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "author": "David Ramsay",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
