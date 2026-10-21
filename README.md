@@ -2,7 +2,7 @@
 
 Returns `true` if every input is a number that is safe to compute with: a primitive number, finite, and within the safe integer range.
 
-Use it to guard the inputs of [`is-nodd`](https://github.com/davidramsay95/is-nodd), [`is-neven`](https://github.com/davidramsay95/is-neven), [`is-throdd`](https://github.com/davidramsay95/is-throdd) and [`is-threeven`](https://github.com/davidramsay95/is-threeven), which otherwise follow raw JavaScript `%` semantics.
+It validates the inputs of [`is-nodd`](https://github.com/davidramsay95/is-nodd) and [`is-throdd`](https://github.com/davidramsay95/is-throdd), and through them [`is-neven`](https://github.com/davidramsay95/is-neven) and [`is-threeven`](https://github.com/davidramsay95/is-threeven).
 
 ## Install
 
